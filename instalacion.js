@@ -11,12 +11,6 @@
 >nodemon index.js
 >npm run start:dev
 
-//--Conexion mongo atlas
-mongodb+srv://mean_user:2MA7MAOLdjmRucnu@cluster0.log5q.mongodb.net/test
-mongodb+srv://mean_user:*****@cluster0.log5q.mongodb.net/test?authSource=admin&replicaSet=atlas-m1pfsg-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true
-user: mean_user
-pass: 2MA7MAOLdjmRucnu
-
 // Instalando Mongoose
 >npm i mongoose
 
