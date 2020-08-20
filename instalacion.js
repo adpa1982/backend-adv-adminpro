@@ -25,6 +25,6 @@ pass: 2MA7MAOLdjmRucnu
 //-- Instalando cors peticiones de diferentes dominios
 >npm i cors
 
-//--Git 
+//--Git
 git remote add origin https://github.com/adpa1982/backend-adv-adminpro.git
 git push -u origin master
