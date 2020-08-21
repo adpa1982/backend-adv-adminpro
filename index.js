@@ -17,6 +17,9 @@ app.use(express.json());
 // Base Datos
 dbConecction();
 
+// Directorio publico
+app.use(express.static('public'));
+
 // console.log(process.env);
 
 // Rutas
